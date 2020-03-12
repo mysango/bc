@@ -1,5 +1,5 @@
 Bioinformatics for 17bio -- course materials
-<br><br>
+<br>
 <div>This semester starts from the second week!</div>
 <div><I>Week 2</I></div>
 <div>Chapter 1 introduces the book, and describes its organization.[<a href="http://119.28.156.123/file/BFG_Chapter1_Introduction_v03.pptx" download="BFG_Chapter1.pptx">PPT</a>] &nbsp;
