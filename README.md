@@ -1,4 +1,3 @@
-# bc
 Bioinformatics for 17bio -- course materials
 <br><br>
 <div>This semester starts from the second week!</div>
